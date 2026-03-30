@@ -18,7 +18,7 @@
       {
         "id": "beme",
         "aliases": ["Beme", "beme"],
-        "extensions": [".beme"],
+        "extensions": [".beme", ".meme"],
         "configuration": "./language-configuration.json"
       }
     ],
